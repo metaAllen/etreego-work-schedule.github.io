@@ -1,0 +1,117 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.mb-5{
+	margin-bottom: 80px;
+}
+.mb-6{
+	margin-bottom: 96px;
+}
+.mb-7{
+	margin-bottom: 112px;
+}
+.mb-8{
+	margin-bottom: 144px;
+}
+.mb-9{
+	margin-bottom: 176px;
+}
+.mb-10{
+	margin-bottom: 208px;
+}
+.mt-5{
+	margin-top: 80px;
+}
+.mt-6{
+	margin-top: 96px;
+}
+.mt-7{
+	margin-top: 112px;
+}
+.mt-8{
+	margin-top: 144px;
+}
+.mt-9{
+	margin-top: 176px;
+}
+.mt-10{
+	margin-top: 208px;
+}
+.pt-5{
+	padding-top: 80px;
+}
+.pt-6{
+	padding-top: 96px;
+}
+.pt-7{
+	padding-top: 112px;
+}
+.pt-8{
+	padding-top: 144px;
+}
+.pt-9{
+	padding-top: 176px;
+}
+.pt-10{
+	padding-top: 208px;
+}
+.pb-5{
+	padding-bottom: 80px;
+}
+.pb-6{
+	padding-bottom: 96px;
+}
+.pb-7{
+	padding-bottom: 112px;
+}
+.pb-8{
+	padding-bottom: 144px;
+}
+.pb-9{
+	padding-bottom: 176px;
+}
+.pb-10{
+	padding-bottom: 208px;
+}
+
