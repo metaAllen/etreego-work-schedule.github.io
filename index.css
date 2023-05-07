@@ -1,4 +1,10 @@
 /*navbar*/
+
+.editable {
+  border: none;
+  outline: none;
+}
+
 .tabs0 {
   margin-top: 50px;
   margin: 0 auto;}
